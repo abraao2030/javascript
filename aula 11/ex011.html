@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qual o seu país</title>
+</head>
+<body>
+    <H1>Nacinalidade</h1>
+    Qual a sua nacinalidade: <input type="nome" name="txtvel" id="txtvel"> 
+    <input type="button" value="Verificar" onclick="calcular()">
+    <div id="res" >
+
+    </div>
+    <script>
+        function verificar() {
+           var txtv = window.document.getElementById('txtvel') 
+           var res = window.document.querySelector('div#res')
+           var nacio = (txtvel)
+           res.innerHTML = `<p>Sua nacinalidade é de <strong>${nacio}km/h</strong>`
+            if (nacio == Brasil) {
+                res.innerHTML += `<p>Você é <strong>BRASILEIRO</strong> </p>`
+            }
+            
+        else {(nacio != Brasil) 
+                res.innerHTML += `<p>Você é <strong>ESTRANGEIRO</strong> </p>`
+
+        }
+    res.innerHTML+= `<p> Seja bem vindo ao BRASIL!</p>`
+    }
+    </script>
+</body>
+</html>

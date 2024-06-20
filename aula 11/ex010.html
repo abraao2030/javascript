@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DETRAN</title>
+    <Style>
+       body{ 
+        background-color: rgb(84, 196, 196);
+        color: rgb(0, 0, 0);
+        font: normal 18 Arial;
+       }    
+       h1{
+        color: rgb(95, 4, 4);
+       }  
+       
+        
+            </Style>
+</head>
+<body>
+    <H1>Sistema de Multas</h1><!--Titulo -->
+    Velocidade do carro: <input type="number" name="casa1" id="casa1"> km/h
+    <!--2º mensagem mais botão numerico com nome = casa1 e id = casa1 
+    km/h = isso aparece depois do botão numerico-->
+    <input type="button" value="Me perte" onclick="calcular()">
+    <!-- mais um botão na frente com a mensagem para vericação 
+    com a funçao clicar -->
+    <div id="res" >
+
+    </div>
+    <script>
+        function calcular() { //função calcular 
+           var c1 = window.document.getElementById('casa1') 
+           /*variavel c1 racebe window.documento.getElementById
+           seleciona o objeto por ID (la da casa1) */
+           var res = window.document.querySelector('div#res')
+           /*variavel res recebe do window.document.querySelector seleciona o 
+           objeto por seletor ()*/
+           var velocidade = Number(c1.value)
+           /* variavel velocidade recebe numeros (da varivel c1.) */
+           res.innerHTML = `<p>Sua velocidade atual é de <strong>${velocidade}km/h</strong>`
+            /*varialve res mais innerHTML seleciona todo o conteudo 
+            recebe  crase <p> = paragrafo Sua velocidade atual é de <strong> negrito
+                ${ }placeholder km/h</strong> fecha negrito crase */
+            if (velocidade > 60) {//se velocidade for maior que 60
+                res.innerHTML += `<p>Você esta <strong>MULTADO</strong> por excesso de velocidade</p>`
+            }/*variavel res .innerHTML recebe todo o conteudo mais crase <p> paragrado
+                Voce esta multado </p> fecha paragrafo*/
+            res.innerHTML+= `<p> Dirija sempre com sinto de segurança!</p>`
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><!-- linguagem da fonte -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title> 
+    <style>
+        body{/*body vem a ser o corpo */
+            background-color: rgb(105, 172, 231);/*background-color vem a ser o fundo da area de trabalho */
+            color:rgb(23, 26, 3);/* vem a ser a cor da letra */
+            font:normal 10pt Arial; /* estilo da letra */
+        }
+    </style>
+</head>
+<body>
+    <h1>Iniciando estudos com DOM</h1> <!-- h1 vem a ser o titulo do texto -->
+    <p>Aqui vai o resultado</p> <!-- p ver a ser um paragrafo (que sempre começa por 0) -->
+    <p>Aprendendo a usa o <strong>DOM</strong></p><!-- outro paragrafo (este sendo p 2) -->
+    <div id="msg"> clique em mim</div>
+    <script>
+        var corpo = window.document.body
+        var p1 = window.document.getElementsByTagName('p')[1]  
+        /*
+        var d = window.document.getElementById('msg')  //esta selecionado a id e o mdg dela   
+        d.style.background = 'green'//mudando o fundo para verde 
+        //d.innerText = 'Estou aguardando...'//comando para mudar o conteudo dela
+        window.document.getElementById('msg').innerText = 'Olá!' //outra forma de mudar o texto 
+        */
+       var d = window.document.querySelector('div#msg')// toda div = # e a class = .
+       d.style.color = 'blue'
+    </script>
+</body>
+</html>

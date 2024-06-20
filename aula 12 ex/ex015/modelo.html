@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+    <link rel="stylesheet" href="estilo.css"><!--arquivo externo
+    estilo em css aperte ctrl + clic na tag e abra novo documento-->
+</head>
+<body><!-- corpo-->
+    <header><!--cabeçalho-->
+        <H1>Verificador de Idade</H1><!--titulo-->
+    </header>
+    <section> 
+        <div><!--fomulario de entrada-->
+            <p>Ano de Nascimento:<!--paragrafo ano de nascimento mensagem-->
+                <input type="number" name="txtano" id="txtano" min="0">
+                <!--input tipo numero para colocar ano de nascimento com 
+                valor min = 0-->
+            </p>
+            <p>Sexo:<!--paragrafo do tipo sexo-->
+                <input type="radio" name="radsex" id="mas" checked>
+                <!--input tipo radio = que é aquela bolotinha checked ja aparecer 
+                marcado para obrigar escolher um ou outro-->
+                <label for="mas">Masculino</label>
+                <input type="radio" name="radsex" id="fem">
+                 <!--mesmo comando de cima para sexo feminino-->
+                 <label for="fem">Feminino</label>
+            </p>
+            <p>
+                <input type="button" value="verificar" onclick="verificar()">
+                <!--paragrafo com botão verificar com evento verificar-->
+            </p>
+        </div>
+        <div id="res"><!--formulario de saida resultado-->
+            Preecha os dados acima para ver o  resultado
+        </div>
+
+    </section>
+    <footer>
+        <p>&copy;Cursoemvideo</p><!--paragrafo &copy; =para ficar tudo junto-->
+        <script src="script.js"></script><!--script src = script externo
+        apert ctrl + clic em cima ta tag e abra novo documento-->
+        </footer>
+    
+</body>
+</html>

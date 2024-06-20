@@ -1,0 +1,21 @@
+body {/*aspecto do fundo do sete*/
+    background-color: rgb(81, 81, 245);
+    font: normal 15pt Arial;
+}
+header {/*titulo do site*/
+    color: white;/*cor do titulo*/
+    text-align: center;/*titulo centralizado*/
+}
+section {/*meio do site*/
+    background-color: white;
+    border-radius: 10px; /*raio da bordas arendondadas*/
+    padding: 15px;/*para dar espaço dentro*/
+    width: 500px;/*largura fixa*/
+    margin: auto;/*para centralizar*/
+    box-shadow: 5px 5px 10px black;/*sombra lateral na cor preto*/
+}
+footer {/*teg do site*/
+    color: rgb(207, 20, 20);
+    text-align: center;/*teg centralizada*/
+    font-style: italic;/*fonte em italico*/
+}

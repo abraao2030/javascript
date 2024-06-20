@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabuada</title>
+    <link rel="stylesheet" href="estilo.css"><!--arquivo externo
+    estilo em css aperte ctrl + clic na tag e abra novo documento-->
+</head>
+<body><!-- corpo-->
+    <header><!--cabeçalho-->
+        <H1>Tabuada</H1><!--titulo-->
+    </header>
+    <section> 
+        <div>
+            <p>Número:<!--paragrafo 0 com mensagem que aparece na tela -->
+                <input type="number" name="num" id="txtn">
+                <!--gera uma caixa do tipo número com nome num e id txtn-->
+                <input type="button" value="Gerar Tabuada" onclick="tabuada()">
+                <!--gerar uma caixa do tipo botão do tipo clique onde chama a
+                 tabuada-->
+            </p>
+        </div>
+        <div>
+            <select name="tabuada" id="seltab" size="10">
+                <!--size são as linhas com os 10 elemento-->
+                <option >Digite um número acima</option>
+                <!--texto para poder deixar a cixa aberta -->
+            </select>
+        </div>
+
+    </section>
+    <footer>
+        <p>&copy;Cursoemvideo</p><!--paragrafo &copy; =para ficar tudo junto-->
+        <script src="script.js"></script><!--script src = script externo
+        apert ctrl + clic em cima ta tag e abra novo documento-->
+        </footer>
+    
+</body>
+</html>
