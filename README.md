@@ -8,8 +8,12 @@
 
 <a href="https://abraao2030.github.io/javascript/aula 06/ex003.html"  target="_blank" rel="external">ex003 [Somando]</a><br>
 
-<a href="https://abraao2030.github.io/javascript/aula 06/ex004.html"  target="_blank" rel="external">ex004 [Document</]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 06/ex004.html"  target="_blank" rel="external">ex004 [Documento]</a><br>
 
-<a href="https://abraao2030.github.io/javascript/aula 09/ex005 2.html"  target="_blank" rel="external">ex005 [Document</]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 09/ex005 2.html"  target="_blank" rel="external">ex005 2 [Primeiros passos com DOM]</a><br>
 
-<a href="https://abraao2030.github.io/javascript/aula 09/ex005.html"  target="_blank" rel="external">ex005 [Document</]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 09/ex005.html"  target="_blank" rel="external">ex005 [rimeiros passos com DOM]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 10/ex006.html"  target="_blank" rel="external">ex006 [Eventos DOM<]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 10/ex007.html"  target="_blank" rel="external">ex007 [Somando Números<]</a><br>
