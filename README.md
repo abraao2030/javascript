@@ -62,3 +62,9 @@ Exercício aula 15<br>
 <a href="https://abraao2030.github.io/javascript/aula 15/ambiente.js"  target="_blank" rel="external"> Ambiente.js  [Elementos composto]</a><br>
 
 <a href="https://abraao2030.github.io/javascript/aula 15/vetornatela.js"  target="_blank" rel="external"> Vetornatela.js  [ Vai começar...]</a><br>
+
+Exercício aula 16 ex<br>
+<a href="https://abraao2030.github.io/javascript/aula 16 ex/ex018/modelo.html"  target="_blank" rel="external"> Ambiente.js  [Analisador de Números<]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 16 ex/modelo/modelo.html"  target="_blank" rel="external"> Ambiente.js  [Modelo de Exercícios<]</a><br>
+
