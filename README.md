@@ -20,4 +20,13 @@ Exercício aula 09<br>
 Exercício aula 10<br>
 <a href="https://abraao2030.github.io/javascript/aula 10/ex006.html"  target="_blank" rel="external">ex006 [Eventos DOM<]</a><br>
 
-<a href="https://abraao2030.github.io/javascript/aula 10/ex007.html"  target="_blank" rel="external">ex007 [Somando Números<]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 10/ex007.html"  target="_blank" rel="external">ex007 [Somando Números]</a><br>
+
+Exercício aula 11<br>
+<a href="https://abraao2030.github.io/javascript/aula 11/ex008.html"  target="_blank" rel="external">ex008 [Velocidade]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 11/ex009.html"  target="_blank" rel="external">ex009 [Nacionalidade]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 11/ex010.html"  target="_blank" rel="external">ex010 [DETRAN<]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 11/ex011.html"  target="_blank" rel="external">ex011 [DETRAN<]</a><br>
