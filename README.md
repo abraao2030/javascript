@@ -2,7 +2,7 @@
  JAVASCRIPT  cursoemVideo<br> 
  Clicando nos links acesse os exercícios.<br><br>
 
- Exercício aula 04<br>
+ **Exercício aula 04**<br>
  <a href="https://abraao2030.github.io/javascript/aula 04/ex001.html"  target="_blank" rel="external">ex001 [Olá, Mundo]</a><br>
 
 Exercício aula 06<br>
