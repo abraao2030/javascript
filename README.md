@@ -48,9 +48,9 @@ Exercício aula 12 <br>
 Exercício aula 13 <br>
 <a href="https://abraao2030.github.io/javascript/aula 13/ambiente.js"  target="_blank" rel="external"> ambiente.js  [Contadores]</a><br>
 
-Exercício aula 14 <br>
-<a href="https://abraao2030.github.io/javascript/aula 14/Modelo/modelo.html"  target="_blank" rel="external"> Modelo  [Modelo de Exercício]</a><br>
+Exercício aula 14 ex<br>
+<a href="https://abraao2030.github.io/javascript/aula 14 ex/Modelo/modelo.html"  target="_blank" rel="external"> Modelo  [Modelo de Exercício]</a><br>
 
-<a href="https://abraao2030.github.io/javascript/aula 14/ex016/modelo.html"  target="_blank" rel="external"> Modelo  [Super Contador]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 14 ex/ex016/modelo.html"  target="_blank" rel="external"> Modelo  [Super Contador]</a><br>
 
-<a href="https://abraao2030.github.io/javascript/aula 14/ex017/modelo.html"  target="_blank" rel="external"> Modelo  [Tabuada]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 14 ex/ex017/modelo.html"  target="_blank" rel="external"> Modelo  [Tabuada]</a><br>
