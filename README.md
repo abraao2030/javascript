@@ -54,3 +54,9 @@ Exercício aula 14 ex<br>
 <a href="https://abraao2030.github.io/javascript/aula 14 ex/ex016/modelo.html"  target="_blank" rel="external"> Modelo  [Super Contador]</a><br>
 
 <a href="https://abraao2030.github.io/javascript/aula 14 ex/ex017/modelo.html"  target="_blank" rel="external"> Modelo  [Tabuada]</a><br>
+
+Exercício aula 14<br>
+<a href="https://abraao2030.github.io/javascript/aula 14/ambiente.js"  target="_blank" rel="external"> Ambiente.js  [ Vai começar...]</a><br>
+
+Exercício aula 15<br>
+<a href="https://abraao2030.github.io/javascript/aula 14/ambiente.js"  target="_blank" rel="external"> Ambiente.js  [ Vai começar...]</a><br>
