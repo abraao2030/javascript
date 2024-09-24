@@ -32,4 +32,8 @@ Exercício aula 11<br>
 <a href="https://abraao2030.github.io/javascript/aula 11/ex011.html"  target="_blank" rel="external">ex011 [Nacionalidade]</a><br>
 
 Exercício aula 12<br>
-<a href="https://abraao2030.github.io/javascript/aula 12 ex/Modelo/modelo.html"  target="_blank" rel="external">Modelo  [Modelo de Exercício<]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 12 ex/Modelo/modelo.html"  target="_blank" rel="external">Modelo  [Modelo de Exercício]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 12 ex/ex014/modelo.html"  target="_blank" rel="external">ex014  [Modelo de Exercício]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 12 ex/ex015/modelo.html"  target="_blank" rel="external">ex014  [Verificador de Idade<]</a><br>
