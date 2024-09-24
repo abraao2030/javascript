@@ -44,3 +44,6 @@ Exercício aula 12 <br>
 <a href="https://abraao2030.github.io/javascript/aula 12/ex012.js"  target="_blank" rel="external"> ex012.js  [Variavel hora atual]</a><br>
 
 <a href="https://abraao2030.github.io/javascript/aula 12/ex013.js"  target="_blank" rel="external"> ex013.js  [Variavel dia da semana]</a><br>
+
+Exercício aula 13 <br>
+<a href="https://abraao2030.github.io/javascript/aula 13/ambiente.js"  target="_blank" rel="external"> ambiente.js  [Contadores]</a><br>
