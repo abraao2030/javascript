@@ -59,4 +59,6 @@ Exercício aula 14<br>
 <a href="https://abraao2030.github.io/javascript/aula 14/ambiente.js"  target="_blank" rel="external"> Ambiente.js  [ Vai começar...]</a><br>
 
 Exercício aula 15<br>
-<a href="https://abraao2030.github.io/javascript/aula 14/ambiente.js"  target="_blank" rel="external"> Ambiente.js  [ Vai começar...]</a><br>
+<a href="https://abraao2030.github.io/javascript/aula 15/ambiente.js"  target="_blank" rel="external"> Ambiente.js  [Adicionando vetor]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 15/ambiente.js"  target="_blank" rel="external"> Vetornatela.js  [ Vai começar...]</a><br>
