@@ -31,9 +31,16 @@ Exercício aula 11<br>
 
 <a href="https://abraao2030.github.io/javascript/aula 11/ex011.html"  target="_blank" rel="external">ex011 [Nacionalidade]</a><br>
 
-Exercício aula 12<br>
+Exercício aula 12 ex<br>
 <a href="https://abraao2030.github.io/javascript/aula 12 ex/Modelo/modelo.html"  target="_blank" rel="external">Modelo  [Modelo de Exercício]</a><br>
 
 <a href="https://abraao2030.github.io/javascript/aula 12 ex/ex014/modelo.html"  target="_blank" rel="external">ex014  [Hora do Dia]</a><br>
 
 <a href="https://abraao2030.github.io/javascript/aula 12 ex/ex015/modelo.html"  target="_blank" rel="external">ex015  [Verificador de Idade]</a><br>
+
+Exercício aula 12 <br>
+<a href="https://abraao2030.github.io/javascript/aula 12/ex011.js"  target="_blank" rel="external"> ex011.js  [Variavel idade]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 12/ex012.js"  target="_blank" rel="external"> ex012.js  [Variavel hora atual]</a><br>
+
+<a href="https://abraao2030.github.io/javascript/aula 12/ex013.js"  target="_blank" rel="external"> ex013.js  [Variavel dia da semana]</a><br>
